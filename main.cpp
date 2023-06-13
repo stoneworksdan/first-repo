@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Monster.h"
+#include "Warrior.h"
 
 using namespace std;
 
