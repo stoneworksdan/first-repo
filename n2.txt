@@ -1,2 +1,4 @@
 rebase 2 - commit 2
 pre stash pop stage and commit
+cherry-pick 2
+post cherry-pick -n change
